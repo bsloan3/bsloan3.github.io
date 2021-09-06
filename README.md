@@ -1,3 +1,3 @@
-# Personal Portfolio
+# Portfolio
 
 # https://bsloan3.github.io/
